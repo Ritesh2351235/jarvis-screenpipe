@@ -3,8 +3,8 @@ import "./globals.css";
 import { Toaster } from "@/components/ui/toaster";
 
 export const metadata: Metadata = {
-  title: "Example Pipe • Screenpipe",
-  description: "A clean starting point for your Screenpipe pipe",
+  title: "jarvis",
+  description: "your personal assistant",
 };
 
 export default function RootLayout({
@@ -14,8 +14,8 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
-      <body 
-        className="antialiased min-h-screen bg-background" 
+      <body
+        className="antialiased min-h-screen bg-background"
         suppressHydrationWarning
         data-suppress-hydration-warning={true}
       >
