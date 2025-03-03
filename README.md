@@ -2,7 +2,7 @@
 
 An interactive pipe for real-time voice conversations with AI, featuring live audio visualization, instant transcription, and dynamic responses.
 
-![AI Voice Assistant Demo](your-demo-gif-or-image-url-here)
+
 
 ## Key Features
 
