@@ -1,36 +1,23 @@
-# screenpipe playground
+# AI Voice Assistant Playground 
 
-a flexible playground for displaying, testing, and exploring components with their associated code, documentation, and ai prompts.
+An interactive pipe for real-time voice conversations with AI, featuring live audio visualization, instant transcription, and dynamic responses.
 
-<!-- <img width="1312" alt="screenshot of component playground" src="https://github.com/user-attachments/assets/3e5abd07-0a3c-4c3b-8351-5107beb4fb10"> -->
+![AI Voice Assistant Demo](your-demo-gif-or-image-url-here)
 
-## features
+## Key Features
 
-- **interactive component display**: view rendered components in action
-- **code inspection**: examine the full source code of each component
-- **raw output**: see the raw api responses and data
-- **ai prompt visibility**: view the prompts and context used to generate components
-- **collapsible interface**: toggle component visibility for a cleaner workspace
+- **Real-time Voice Interaction**: Seamless conversations with AI using Deepgram's advanced speech recognition
+- **Live Audio Visualization**: Beautiful waveform display while speaking
+- **Instant Transcription**: See your words transform into text in real-time
+- **Dynamic AI Responses**: Natural and contextual responses powered by advanced language models
+- **Modern UI**: Sleek, responsive interface built with Next.js and Framer Motion
 
-## usage
+## Tech Stack
 
-the playground allows you to:
+- **Frontend**: Next.js, TypeScript, Framer Motion
+- **Audio Processing**: Deepgram SDK, React Audio Visualize
+- **UI Components**: shadcn/ui
+- **Package Manager**: Bun
 
-1. view rendered components in their intended state
-2. inspect the raw output from api calls
-3. study the complete component code
-4. examine the ai prompts and context used to generate components
 
-## component structure
-
-each playground card includes:
-- component title and collapsible interface
-- tabs for different views (rendered output, raw output, code, ai prompt)
-- copy functionality for sharing prompts and context
-
-## getting started
-
-1. install this pipe from UI and play with it
-2. follow docs to create your pipe (it will create this app) (https://docs.screenpi.pe/docs/plugins)
-3. modify code from ready-to-use-examples directory
 
